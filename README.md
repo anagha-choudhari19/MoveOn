@@ -25,3 +25,4 @@ The whole project is built using 'Big Data Technologies' because data contains m
 * T-kinter : for UI 
 * PowerBI dashboard : to visualize data
 
+Note : For hive table commands file name sql_hive.txt is uploaded and for setting hdfs files commands.sh is uploaded.
