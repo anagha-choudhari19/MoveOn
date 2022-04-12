@@ -11,5 +11,17 @@ Data link - https://www.kaggle.com/datasets/yasserh/kinematics-motion-data
 
 
 # What is MoveOn 
-MoveOn is a machine learning algorithm that uses the data collected from IOS devices and gives the status of motion of user.
+MoveOn is a machine learning algorithm that uses the data collected from IOS devices and gives the status of motion of user. when the data is fed MoveOn predicts whether user is walking or running.
+
+MoveOn solves binary classification problem.
+
+The whole project is built using 'Big Data Technologies' because data contains more than 80000 rows hence it can be considered as big data. Moreover aknowledging real life scenario one IOS user will generate very big data where MoveOn model can be implemented.
+
+# Technologies Used
+* Hdfs : to store data file in distributed fashion
+* Hive table : to make data structured and query it easily
+* Pyspark : for implementation of machine learning algorithm
+* Python : to integrate project
+* T-kinter : for UI 
+* PowerBI dashboard : to visualize data
 
